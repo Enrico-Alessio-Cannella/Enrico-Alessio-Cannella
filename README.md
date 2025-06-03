@@ -1,4 +1,4 @@
-#  👋 Ciao! Mi chiamo Enrico, ho 16 anni e frequento l’IIS Majorana di Grugliasco, con indirizzo informatico🏫.
+#  👋 Ciao! Mi chiamo Enrico, ho 16 anni e frequento l’ITI Majorana di Grugliasco, con indirizzo informatico🏫.
 
 💻 Mi sto appassionando sempre di più al mondo dell’informatica, in particolare alla programmazione 🧑‍💻 e allo sviluppo di progetti pratici ⚙️.
 Amo scoprire come funzionano le tecnologie che utilizziamo ogni giorno 📱💡 e mi diverto a sperimentare con nuovi linguaggi e strumenti 🔍🛠️.
