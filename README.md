@@ -1,6 +1,7 @@
-## Ciao! Mi chiamo Enrico, ho 16 anni e frequento l’IIS Majorana di Grugliasco.
-Mi sto appassionando all’informatica e alla programmazione.
-Nel tempo libero pratico kick boxing, una passione che coltivo con impegno e disciplina. 
+##  👋 Ciao! Mi chiamo Enrico, ho 16 anni e frequento l’IIS Majorana di Grugliasco.
+💻 Mi sto appassionando sempre di più all’informatica, in particolare alla programmazione e allo sviluppo di progetti pratici. Mi piace capire come funzionano le tecnologie che usiamo ogni giorno e sperimentare con nuovi linguaggi e strumenti.
+Sto iniziando a costruire le mie basi con progetti scolastici e personali, 
+🥊 Nel tempo libero pratico kick boxing, una disciplina che mi aiuta a mantenere concentrazione, forza e determinazione.
 
 <!--
 **Enrico-Alessio-Cannella/Enrico-Alessio-Cannella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
