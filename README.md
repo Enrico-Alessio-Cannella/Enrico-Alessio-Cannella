@@ -9,8 +9,7 @@ Amo scoprire come funzionano le tecnologie che utilizziamo ogni giorno 📱💡 
 🔹 Java ☕
 
 ## 🔭 Presente:
-🚀 Sto costruendo le mie basi con entusiasmo, sia attraverso 
-📘progetti scolastici  che iniziative personali. 
+🚀 Sto costruendo le mie basi con entusiasmo, attraverso progetti scolastici 
 
 ## 🏋🏻 Hobby:
 🥊 Nel tempo libero pratico kick boxing, una disciplina che mi aiuta a mantenere la concentrazione 🎯
