@@ -1,15 +1,15 @@
 #  👋 Ciao! Mi chiamo Enrico, ho 16 anni e frequento l’IIS Majorana di Grugliasco, con indirizzo informatico🏫.
 
-## 💻  Competenze tecniche:
+## 💻 Competenze tecniche:
 🔹 HTML 🌐
 🔹 CSS 🎨
 🔹 Java ☕
 
-## 🔭Presente:
+## 🔭 Presente:
 🚀 Sto costruendo le mie basi con entusiasmo, sia attraverso 
 📘progetti scolastici  che iniziative personali. 
 
-## 🏋🏻Hobby:
+## 🏋🏻 Hobby:
 🥊 Nel tempo libero pratico kick boxing, una disciplina che mi aiuta a mantenere la concentrazione 🎯
 È il mio modo per restare in equilibrio tra mente e corpo 🧘‍♂️⚖️.
 
